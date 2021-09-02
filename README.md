@@ -1,5 +1,5 @@
 
-<h1 align="left"> Hello 👋, I am Kevser Akbaş</h1>
+<h1 align="left"> Hi there 👋, I am Kevser Akbaş</h1>
 <h3 align="left">Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KevserAkbas" alt="KevserAkbas" /> </p>
